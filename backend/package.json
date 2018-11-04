@@ -22,5 +22,8 @@
   "dependencies": {
     "lodash": "^4.17.10",
     "serverless-python-requirements": "^3.0.9"
+  },
+  "devDependencies": {
+    "serverless-offline": "^3.31.0"
   }
 }
